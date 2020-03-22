@@ -1,38 +1,235 @@
-.App {
+
+body {
+  font-family: 'Helvetica', sans-serif;
+}
+
+h1, h2, h3, h4, h5, small{
+}
+
+h1 {
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 1.6em;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+a {
+  color: inherit
+}
+
+.container > header {
+  margin-bottom: 40px;
+}
+
+.food-detail-img {
+  width: 50%;
+}
+
+
+
+.tab-content {
+  padding: 20px;
+  border: 1px solid #dee2e6;
+  border-top: 0;
+  margin-bottom: 40px;
+}
+
+.home{
+ height: 100vh;
+ color:#383838;
+}
+
+
+/*  Navar */
+
+.navbar *{
+  color: #383838!important;
+}
+
+.nav-tabs {
+  margin-top: 40px;
+
+}
+
+.navbar {
+  width: 100%;
+  z-index: 1;
+  position: fixed;
+  top: 0;
+}
+
+
+.nav-link:hover{
+  color: red!important;
+  transition: ease-in-out .3s ;
+}
+
+.nav-link{
+  fill: #383838 !important;
+  transition: all .4s ;
+  padding-right: 0px!important;
+  padding-left: 52px!important;
+}
+
+.navbar-brand span{
+  opacity: 0;
+  margin-left:-100px ;
+  transition: .5s all; 
+}
+
+.navbar-brand:hover span{
+  margin-left:-0px ;
+  opacity: 1;
+  transition: .5s all;
+}
+/* Fin Navbar */
+
+
+/*···Contact···*/
+
+.jumboMail{
+  background: transparent;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.jumboMail p{
+  display: block!important;
+}
+
+
+
+.inputSumbitContact{
+  border: 0;
+  background: rgb(31, 31, 31) !important;
+  color: white;
+  font-size: 20px;
+  width: 40%;
+  border-radius: 10px;
+  padding: 10px 0px;
+  margin-top: 10px; 
+  margin-left: auto;
+}
+
+.inputNameContact, .inputEmailContact, .inputMessageContact{
+  border: 0px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+  width: 100%;
+  outline: none;
+}
+
+.inputNameContact:focus, .inputEmailContact:focus, .inputMessageContact:focus{
+  border-bottom: 1px solid rgb(31, 31, 31) ;
+  transition: all .5s;
+  
+}
+
+
+.inputNameContact:hover, .inputEmailContact:hover, .inputMessageContact:hover{
+  border-bottom: 1px solid rgb(31, 31, 31) ;
+  transition: all .5s;
+}
+
+.inputNameContact, .inputEmailContact, .inputMessageContact{
+  padding: 20px 10px;
+}
+
+.ownFormContact{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: right;
+}
+
+.ownFormContact h2{
+  font-size: 50px;
   text-align: center;
 }
+ 
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+/*···Fin-Contact···*/
+
+
+
+/* ··········· Newww ············ */
+
+
+/**** -INICIO- HomeContainer *****/
+.homeContainer{
+  height: 90vh;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.homeContainer .row{
+  height: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.cardMain{
+  font-size: 2rem!important;
+  display: block;
+  height:33vh;
   display: flex;
-  flex-direction: column;
+  align-items: center;} 
+
+.cardMain:hover{
+opacity: 0.8;  
+  transition: all .3s ;
+} 
+
+
+
+.homeContainerright .homeNombre p{
+  font-size: 30px;
+  margin-bottom: -20px!important;
+}
+
+.homeContainerright .homeNombre h2{
+  font-size: 70px;
+}
+
+.homeContainerright .homeThings p{
+  font-size: 30px;
+}
+
+.homeContainerright {
+  font-size: 30px;
+  display: flex;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.buttonHomeContact{
+  border: 3px solid #383838 ;
+  border-radius: 10px;
+  padding: 5px 30px;
+  display: inline-block;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.buttonHomeContact:hover{
+  border: 3px solid #383838 ;
+  background-color: #383838 ;
+  color: white!important;
+  border-radius: 10px;
+  padding: 5px 30px;
+  display: inline-block;
+  cursor: pointer;
+  transition: all .3s;
 }
+.homeContainerleft{
+  align-items: center;
+  height: 100vh;
+}
+.homeContainerleft img{
+  position: absolute;
+  right: -60px;
+}
+/**** -FIN- HomeContainer*****/
