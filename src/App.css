@@ -78,17 +78,11 @@ a {
   padding-left: 52px!important;
 }
 
-.navbar-brand span{
-  opacity: 0;
-  margin-left:-100px ;
-  transition: .5s all; 
+.navbar-brand {
+  font-weight: bold;
 }
 
-.navbar-brand:hover span{
-  margin-left:-0px ;
-  opacity: 1;
-  transition: .5s all;
-}
+
 /* Fin Navbar */
 
 
