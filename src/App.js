@@ -24,7 +24,7 @@ const App = () => {
     <div className="home">
     <NavBar />
     <Switch>
-      <Route path="/" exact component={IndexPage}/>
+      <Route path="/uxui" exact component={IndexPage}/>
       <Route path="/web" component={Foodsindex}/>
       <Route path="/photovideo" component={PhotoVideo}/>
       <Route path="/contact" component={Contact}/>
