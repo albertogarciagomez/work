@@ -27,13 +27,13 @@ class Content extends Component {
                 <div className="proyecto1">
                     <Row>
                         <div className="col-xs-12 col-md-6">
-                            <img src="./img/rentoLogo.png"></img>
+                            <img className="col-8" src="./img/rentoLogo.png"></img>
                             <h3>  Add a feature: Avisame cuando llegues en WhatsApp   </h3>
                             <a href="">See More >></a>
                         </div>
 
                         <div className="col-xs-12 col-md-6">
-                            <img src="./img/ProyectoFinal1.jpg" />
+                            <img className="col-8" src="./img/ProyectoFinal1.jpg" />
                         </div>
                     </Row>
                 </div>
