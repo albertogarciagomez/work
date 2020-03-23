@@ -18,7 +18,7 @@ const IndexPage = () => {
 
                                         <div className="homeThings">
                                                 <p>
-                                                        <a href="#uxuiancla">UX/UI DESIGNER</a>
+                                                        <a href="#uxuiAncla">UX/UI DESIGNER</a>
                                                 </p>
                                                 <p>
                                                         <a href="#uxuiancla">WEB DEVELOPER</a>
