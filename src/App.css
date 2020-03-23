@@ -50,7 +50,7 @@ a {
 /*  Nav-bar */
 
 .navbar-light .navbar-toggler-icon{
-  background-color: red;
+  display: none;
 }
 
 
@@ -73,7 +73,7 @@ a {
 
 
 .nav-link:hover{
-  color: red!important;
+  color: #06c!important;
   transition: ease-in-out .3s ;
 }
 
@@ -240,7 +240,9 @@ opacity: 0.8;
 .jumboUxUi h2{
   font-size: 40px;
 }
-
+.jumboUxUi a {
+  color: #06c!important;
+}
 .proyecto{
   border-bottom: 1px solid #dadada ;
   height: 90vh;
