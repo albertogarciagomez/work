@@ -27,20 +27,20 @@ class Content extends Component {
                         </Row>
                     </div>
 
-                    <div className="proyecto">
-                        <Row>
+                    <div className="proyecto row">
+                        
                             <div className="col-xs-12 col-md-6 textoCard centro">
                                 <div>
-                                <h3>WhatsApp: Avisame cuando llegues</h3>
+                                <h3 className="col-12">WhatsApp: Avisame cuando llegues</h3>
                                 <h3 className="col-12">  Funcionalidad para WhatsApp. Envía un mensaje automático a un ser querido cuando llegas a casa  </h3>
                                 <a className="col-12" href="medium.com">See More >></a>
                                 </div>
                             </div>
 
-                            <div className="col-xs-12 col-md-6 text-center">
-                                <img  className="w-50" src="./img/displaysACLL.jpeg" alt="Home de Rento" />
+                            <div className="col-xs-12 col-md-6 text-center centro">
+                                <img  className="w-100" src="./img/displaysACLL.jpeg" alt="Home de Rento" />
                             </div>
-                        </Row>
+                        
                     </div>
 
                 </Container>

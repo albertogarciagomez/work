@@ -37,38 +37,7 @@ const IndexPage = () => {
                         </div>
                 </Container>
 
-                <Container className="homeContainer col-md-10 row m-auto">
-                        <div className="homeContainerleft col-md-6 d-none d-md-flex">
-                                <img className="col-10 " src="./img/ownPhoto.jpg"></img>
-                        </div>
-                        <div className="homeContainerright ml-auto col-sm-12 col-md-6 text-left">
-                                <div className="containerHomeRight">
-
-                                        <div className="homeNombre">
-                                                <p>I'M</p>
-                                                <h2>ALBERTO</h2>
-                                        </div>
-
-                                        <div className="homeThings">
-                                                <p>
-                                                        <a href="#uxuiAncla">UX/UI DESIGNER</a>
-                                                </p>
-                                                <p>
-                                                        <a href="#uxuiAncla">WEB DEVELOPER</a>
-                                                </p>
-                                                <p>
-                                                        <a href="#uxuiAncla">PHOTOGRAPHER & FILMMAKER</a>
-                                                </p>
-                                        </div>
-
-
-                                        <a href="/contact" className="buttonHomeContact">
-                                                Contact >
-        </a>
-
-                                </div>
-                        </div>
-                </Container>
+              
         )
 }
 
