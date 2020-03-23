@@ -20,9 +20,9 @@ class Content extends Component {
                         <Row>
                             <div className="col-xs-12 col-md-6 textoCard centro">
                                 <div>
-                                <h2>RENTO</h2>
-                                <h3 className="col-12">  Plataforma de alquiler de equipo fotográfico entre particulares   </h3>
-                                <a className="col-12" href="">See More ></a>
+                                <h2 class="col-12">RENTO: Aquiler de equipo fotográfico</h2>
+                                <h3 className="col-12">  Plataforma C2C de alquiler de equipo fotográfico entre particulares   </h3>
+                                <a className="col-12" href=""> See More > </a>
                                 </div>
                             </div>
 
