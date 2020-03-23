@@ -209,20 +209,11 @@ opacity: 0.8;
 }
 
 .buttonHomeContact{
-  border: 3px solid #383838 ;
-  border-radius: 10px;
-  padding: 5px 30px;
-  display: inline-block;
+  border: 0px solid #383838 ;
+  color: #06c;
 }
 .buttonHomeContact:hover{
-  border: 3px solid #383838 ;
-  background-color: #383838 ;
-  color: white!important;
-  border-radius: 10px;
-  padding: 5px 30px;
-  display: inline-block;
-  cursor: pointer;
-  transition: all .3s;
+  transition: all .3s ;
 }
 .homeContainerleft{
   align-items: center;

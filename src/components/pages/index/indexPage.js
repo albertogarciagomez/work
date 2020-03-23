@@ -21,10 +21,10 @@ const IndexPage = () => {
                                                         <a href="#uxuiAncla">UX/UI DESIGNER</a>
                                                 </p>
                                                 <p>
-                                                        <a href="#uxuiancla">WEB DEVELOPER</a>
+                                                        <a href="#uxuiAncla">WEB DEVELOPER</a>
                                                 </p>
                                                 <p>
-                                                        <a href="#uxuiancla">PHOTOGRAPHER & FILMMAKER</a>
+                                                        <a href="#uxuiAncla">PHOTOGRAPHER & FILMMAKER</a>
                                                 </p>
                                         </div>
 
