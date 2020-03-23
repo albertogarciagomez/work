@@ -241,4 +241,8 @@ opacity: 0.8;
   border-top: 1px solid #383838 ;
   height: 100vh;
 }
+.centro {
+  display: flex;
+  align-items: center;
+}
 /**** -FIN- HomeContainer*****/

@@ -13,10 +13,12 @@ class Content extends Component {
 
                     <div className="proyecto">
                         <Row>
-                            <div className="col-xs-12 col-md-6 textoCard">
-                                <img  className="col-8 mx-auto text-center" src="./img/rentoLogo.png" alt="Logo de Rento"></img>
-                                <h3 className="pl-3 col-8 mx-auto text-center">  Plataforma de alquiler de equipo fotográfico entre particulares   </h3>
+                            <div className="col-xs-12 col-md-6 textoCard centro">
+                                <div>
+                                <img  className="col-8 mx-auto " src="./img/rentoLogo.png" alt="Logo de Rento"></img>
+                                <h3 className="pl-3 col-8 mx-auto ">  Plataforma de alquiler de equipo fotográfico entre particulares   </h3>
                                 <a href="">See More >></a>
+                                </div>
                             </div>
 
                             <div className="col-xs-12 col-md-6">
