@@ -7,7 +7,7 @@ class Content extends Component {
 
     render() {
         return (
-            <>
+            <>  
                 <Container className="jumboUxUi" id="uxuiAncla">
                     <h2>UX/UI Designer</h2>
 

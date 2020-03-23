@@ -232,4 +232,12 @@ opacity: 0.8;
   position: absolute;
   right: -60px;
 }
+
+.jumboUxUi{
+  height: 100vh;
+}
+
+.proyecto{
+  border-top: 1px solid #383838 ;
+}
 /**** -FIN- HomeContainer*****/
