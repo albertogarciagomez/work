@@ -15,14 +15,14 @@ class Content extends Component {
                         <Row>
                             <div className="col-xs-12 col-md-6 textoCard centro">
                                 <div>
-                                <img  className="col-8 mx-auto " src="./img/rentoLogo.png" alt="Logo de Rento"></img>
-                                <h3 className="pl-1 col-8 mx-auto ">  Plataforma de alquiler de equipo fotográfico entre particulares   </h3>
-                                <a href="">See More >></a>
+                                <img  className="col-8  " src="./img/rentoLogo.png" alt="Logo de Rento"></img>
+                                <h3 className="col-12">  Plataforma de alquiler de equipo fotográfico entre particulares   </h3>
+                                <a className="col-12" href="medium.com">See More >></a>
                                 </div>
                             </div>
 
-                            <div className="col-xs-12 col-md-6">
-                                <img  className="col-8 mx-auto text-center" src="./img/ProyectoFinal1.jpg" alt="Home de Rento" />
+                            <div className="col-xs-12 col-md-6 text-center">
+                                <img  className="col-8  " src="./img/ProyectoFinal1.jpg" alt="Home de Rento" />
                             </div>
                         </Row>
                     </div>
