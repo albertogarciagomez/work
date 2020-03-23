@@ -31,7 +31,7 @@ class Content extends Component {
                         
                             <div className="col-xs-12 col-md-6 textoCard centro">
                                 <div>
-                                <h3 className="col-12">WhatsApp: Avisame cuando llegues</h3>
+                                <h2 className="col-12">WhatsApp: Avisame cuando llegues</h2>
                                 <h3 className="col-12">  Funcionalidad para WhatsApp. Envía un mensaje automático a un ser querido cuando llegas a casa  </h3>
                                 <a className="col-12" href="medium.com">See More >></a>
                                 </div>

@@ -243,6 +243,6 @@ opacity: 0.8;
   align-items: center;
 }
 .proyecto{
-  height: 100vh;
+  min-height: 90vh;
 }
 /**** -FIN- HomeContainer*****/
