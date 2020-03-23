@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 // import { Container } from 'react-bootstrap'
-import { Jumbotron, Container, Row } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 const IndexPage = () => {
 
         return (
@@ -18,7 +18,7 @@ const IndexPage = () => {
                 
                                 <div className="homeThings">
                                         <p>
-                                                <a href="">UX/UI DESIGNER</a>
+                                                <a href="#uxui">UX/UI DESIGNER</a>
                                         </p>
                                         <p>WEB DEVELOPER</p>
                                         <p>PHOTOGRAPHER & FILMMAKER</p>       

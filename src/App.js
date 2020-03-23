@@ -9,10 +9,11 @@ import NavBar from './components/ui/navbar/Navbar'
 
 // Page Components
 import IndexPage from './components/pages/index/indexPage'
-import Foodsindex from './components/pages/foods-index/FoodsIndex'
-import PhotoVideo from './components/pages/foods-index/photovideo'
-import Contact from './components/pages/foods-index/contact'
-import Copy from './components/pages/foods-index/copy'
+//import Foodsindex from './components/pages/foods-index/FoodsIndex'
+//import PhotoVideo from './components/pages/foods-index/photovideo'
+//import Contact from './components/pages/foods-index/contact'
+import Content from './components/pages/foods-index/uxui'
+// import Copy from './components/pages/foods-index/copy'
 
 
 // Rrd Components
@@ -23,14 +24,16 @@ const App = () => {
   return (
     <div className="home">
     <NavBar />
-    <Switch>
+    <IndexPage/>
+    <Content/>
+    {/* <Switch>
       <Route path="/work/uxui" exact component={IndexPage}/>
       <Route path="/work/web" component={Foodsindex}/>
       <Route path="/work/photovideo" component={PhotoVideo}/>
       <Route path="/work/contact" component={Contact}/>
       <IndexPage/>
       <Foodsindex/>
-    </Switch>
+    </Switch> */}
     </div>
   );
 }
