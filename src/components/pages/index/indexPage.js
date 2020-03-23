@@ -29,7 +29,7 @@ const IndexPage = () => {
                                         </div>
 
 
-                                        <a href="/contact" className="buttonHomeContact">
+                                        <a href="#contact" className="buttonHomeContact">
                                                 Contact >
                                 </a>
 
