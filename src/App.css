@@ -263,16 +263,21 @@ opacity: 0.8;
 .sobreMiContainer h2{
   font-size: 22px;
   opacity: .5;
-
+  margin-top: 22px;
+  margin-bottom: 22px;
 }
 
 .titleSobreMiTitle{
   font-size: 30px;
   font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .descriptionSobreMiTitle{
   font-size: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 /***  -FIN-   AboutMe ***/
