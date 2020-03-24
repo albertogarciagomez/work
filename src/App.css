@@ -7,6 +7,11 @@ html {
   scroll-behavior: smooth;
 }
 
+.displayProject{
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(189,189,189,1);
+-moz-box-shadow: 0px 0px 10px 0px rgba(189,189,189,1);
+box-shadow: 0px 0px 10px 0px rgba(189,189,189,1);
+}
 
 h1, h2, h3, h4, h5, small{
 }

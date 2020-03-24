@@ -27,7 +27,7 @@ class Content extends Component {
                             </div>
 
                             <div className="col-xs-12 col-md-6 text-center">
-                                <img  className="w-50" src="./img/ProyectoFinal1.jpg" alt="Home de Rento" />
+                                <img  className="displayProject w-50" src="./img/ProyectoFinal1.jpg" alt="Home de Rento" />
                             </div>
                         </Row>
                     </div>
@@ -43,7 +43,7 @@ class Content extends Component {
                             </div>
 
                             <div className="col-xs-12 col-md-6 text-center centro">
-                                <img  className="w-100" src="./img/displaysACLL.jpeg" alt="Home de Rento" />
+                                <img  className="displayProject w-100" src="./img/displaysACLL.jpeg" alt="Home de Rento" />
                             </div>
                         
                     </div>
