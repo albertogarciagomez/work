@@ -4,7 +4,7 @@ import { Container } from 'react-bootstrap';
 const IndexPage = () => {
 
         return (
-                <Container className="homeContainer col-md-10 row m-auto">
+                <Container className="homeContainer row m-auto">
                         <div className="homeContainerright ml-auto col-sm-12 col-md-6 text-left">
                                 <div className="containerHomeRight">
 
