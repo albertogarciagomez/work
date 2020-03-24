@@ -5,16 +5,8 @@ const IndexPage = () => {
 
         return (
                 <Container className="homeContainer col-md-10 row m-auto">
-                        <div className="homeContainerleft col-md-6 d-none d-md-flex">
-                                <img className="col-10 " src="./img/ownPhoto.jpg"></img>
-                        </div>
                         <div className="homeContainerright ml-auto col-sm-12 col-md-6 text-left">
                                 <div className="containerHomeRight">
-
-                                        <div className="homeNombre">
-                                                <p>I'M</p>
-                                                <h2>ALBERTO</h2>
-                                        </div>
 
                                         <div className="homeThings">
                                                 <p>¡Hola! </p>
@@ -30,6 +22,9 @@ const IndexPage = () => {
                                 </a>
 
                                 </div>
+                        </div>
+                        <div className="homeContainerleft col-md-6 d-none d-md-flex">
+                                <img className="col-10 " src="./img/ownPhoto.jpg"></img>
                         </div>
                 </Container>
 
