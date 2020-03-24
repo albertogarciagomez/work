@@ -263,8 +263,8 @@ opacity: 0.8;
 .sobreMiContainer h2{
   font-size: 22px;
   opacity: .5;
-  margin-top: 22px;
-  margin-bottom: 22px;
+  padding-top: 40px;
+  margin-bottom: -20px;
   font-weight: bold;
 }
 
@@ -281,9 +281,9 @@ opacity: 0.8;
   margin-bottom: 15px;
 }
 
-.sobreMiContainer{
+.sobreMiBlock{
   margin-top:40px;
   margin-bottom:40px;
-
 }
+
 /***  -FIN-   AboutMe ***/
