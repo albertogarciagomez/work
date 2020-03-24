@@ -12,8 +12,8 @@ import IndexPage from './components/pages/index/indexPage'
 //import Foodsindex from './components/pages/foods-index/FoodsIndex'
 //import PhotoVideo from './components/pages/foods-index/photovideo'
 //import Contact from './components/pages/foods-index/contact'
-import Uxui from './components/pages/foods-index/aboutme'
-import Aboutme from './components/pages/foods-index/uxui'
+import Aboutme from './components/pages/foods-index/aboutme'
+import Uxui from './components/pages/foods-index/uxui'
 // import Copy from './components/pages/foods-index/copy'
 
 
