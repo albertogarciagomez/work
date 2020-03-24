@@ -8,7 +8,7 @@ const Navigation = () => {
     return (
         <Navbar  expand="md">
             <Container>
-            <Navbar.Brand href="/"><div className="logo">ALBERTOGARCIA</div></Navbar.Brand>
+            <Navbar.Brand href="#top"><div className="logo">ALBERTOGARCIA</div></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="ml-auto">

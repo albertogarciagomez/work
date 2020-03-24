@@ -256,3 +256,23 @@ opacity: 0.8;
   min-height: 90vh;
 }
 /**** -FIN- HomeContainer*****/
+
+
+/*** -INICIO- AboutMe ***/
+
+.sobreMiContainer h2{
+  font-size: 30px;
+  opacity: .5;
+  
+}
+
+.titleSobreMiTitle{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.descriptionSobreMiTitle{
+  font-size: 30px;
+}
+
+/***  -FIN-   AboutMe ***/

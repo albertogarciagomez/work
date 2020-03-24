@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 // import foodsArray from '../../../foods-info'
 // import Container from 'react-bootstrap/Container'
 import { Container, Row } from 'react-bootstrap';
-class Content extends Component {
+class Uxui extends Component {
 
 
 
@@ -57,4 +57,4 @@ class Content extends Component {
     }
 }
 
-export default Content
+export default Uxui

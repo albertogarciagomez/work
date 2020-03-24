@@ -12,7 +12,8 @@ import IndexPage from './components/pages/index/indexPage'
 //import Foodsindex from './components/pages/foods-index/FoodsIndex'
 //import PhotoVideo from './components/pages/foods-index/photovideo'
 //import Contact from './components/pages/foods-index/contact'
-import Content from './components/pages/foods-index/uxui'
+import Uxui from './components/pages/foods-index/uxui'
+import Aboutme from './components/pages/foods-index/uxui'
 // import Copy from './components/pages/foods-index/copy'
 
 
@@ -22,10 +23,11 @@ import {Switch, Route} from 'react-router-dom'
 
 const App = () => {
   return (
-    <div className="home">
+    <div className="home" id="top">
     <NavBar />
     <IndexPage/>
     <Content/>
+    <Uxui/>
     {/* <Switch>
       <Route path="/work/uxui" exact component={IndexPage}/>
       <Route path="/work/web" component={Foodsindex}/>

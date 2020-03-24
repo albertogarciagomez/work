@@ -17,14 +17,10 @@ const IndexPage = () => {
                                         </div>
 
                                         <div className="homeThings">
+                                                <p>¡Hola! </p>
+                                                <h2>Soy Alberto </h2>
                                                 <p>
-                                                        <a href="#uxuiAncla">UX/UI DESIGNER</a>
-                                                </p>
-                                                <p>
-                                                        <a href="#uxuiAncla">WEB DEVELOPER</a>
-                                                </p>
-                                                <p>
-                                                        <a href="#uxuiAncla">PHOTOGRAPHER & FILMMAKER</a>
+                                                        Un desarrollador web reconvertido en diseñador Ux/Ui. A veces tambien hago videos y fotos.
                                                 </p>
                                         </div>
 
@@ -37,7 +33,7 @@ const IndexPage = () => {
                         </div>
                 </Container>
 
-              
+
         )
 }
 
