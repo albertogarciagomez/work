@@ -22,7 +22,7 @@ const IndexPage = () => {
                                         </a>
                                         
                                         <a href="#contact" className="toprojects">
-                                         Proyectos<br/>  🔽     
+                                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" enable-background="new 0 0 100 100"><path fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="  M50.1,63.5L10.8,24.2c-3.6-3.6-9.9-1.1-9.9,4.1v0c0,1.5,0.6,3,1.7,4.1l43.3,43.3c2.3,2.3,5.9,2.3,8.2,0l43.3-43.3  c1.1-1.1,1.7-2.6,1.7-4.1v0c0-5.2-6.2-7.7-9.9-4.1L50.1,63.5"/></svg>     
                                         </a>
                                 </div>
                         </div>
