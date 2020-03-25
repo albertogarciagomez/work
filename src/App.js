@@ -25,8 +25,11 @@ const App = () => {
   return (
     <div className="home" id="top">
     <NavBar />
+    <hr/>
     <IndexPage/>
+    <hr/>
     <Aboutme/>
+    <hr/>
     <Uxui/>
     {/* <Switch>
       <Route path="/work/uxui" exact component={IndexPage}/>
