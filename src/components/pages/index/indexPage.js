@@ -24,7 +24,7 @@ const IndexPage = () => {
                                 </div>
                         </div>
                         <div className="homeContainerleft col-md-6 d-none d-md-flex">
-                                <img className="col-10 " src="./img/ownPhoto.jpg"></img>
+                                <img className="col-10 ml-auto" src="./img/ownPhoto.jpg"></img>
                         </div>
                 </Container>
 
