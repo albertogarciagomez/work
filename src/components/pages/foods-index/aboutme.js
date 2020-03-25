@@ -33,7 +33,8 @@ class Aboutme extends Component {
                         </div>
 
                             <div className="descriptionSobreMiTitle">
-                                Con 17 años emprendí un e-Commerce de venta de productos de moda. Como todo emprendor joven y sin dinero, te las tienes que apañar. Aprendia a diseñar y desarrollar e-Commerce. Tuve que aprender Marketing Digital, CRO, fotografía de producto y de moda, logistica, etc. Una aventura dura pero muy gratificante.                         </div>
+                                Con 17 años emprendí un e-Commerce de venta de productos de moda. Como todo emprendor joven y sin dinero, te las tienes que apañar. Aprendia a diseñar y desarrollar e-Commerce. Tuve que aprender Marketing Digital, CRO, fotografía de producto y de moda, logistica, etc. Una aventura dura pero muy gratificante.
+                                </div>
                         </div>
 
                         <div class="sobreMiBlock col-md-4">
@@ -42,7 +43,8 @@ class Aboutme extends Component {
                         </div>
 
                             <div className="descriptionSobreMiTitle">
-                                Estando trabajando como desarrollador web en un agencia de Marketing y Desarrollo de e-Commerce descubrí el UX/UI. Siempre me he fijado en todo diseño tanto físico, como digital. Pensé que podría complementar mucho a mi perfil de desarrollador. Y ahora estoy con muchísimas ganas de seguir aprendiendo.                        </div>
+                                Estando trabajando como desarrollador web en un agencia de Marketing y Desarrollo de e-Commerce descubrí el UX/UI. Siempre me he fijado en todo diseño tanto físico, como digital. Pensé que podría complementar mucho a mi perfil de desarrollador. Y ahora estoy con muchísimas ganas de seguir aprendiendo.
+                                </div>
                         </div>
                     </Row>
 

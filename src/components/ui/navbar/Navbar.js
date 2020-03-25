@@ -12,7 +12,7 @@ const Navigation = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 
-                <Nav className="">
+                <Nav className="ml-auto">
                      <Nav.Link href="#uxuiAncla">Proyectos</Nav.Link> 
                      <Nav.Link href="#contact">Contact</Nav.Link> 
                     {/* <Nav.Link href="#uxuiAncla">Ux/Ui</Nav.Link> 
@@ -22,10 +22,10 @@ const Navigation = () => {
                     <Nav.Link href="https://www.linkedin.com/in/albertogarciagomez/">
                     LinkedIn
                     </Nav.Link>
-                    <Nav.Link href="https://medium.com/@albertogarciagomez18">
+                    <Nav.Link href="https://medium.com/@albertogarciagomez18" target="_blank" >
                     Medium
                     </Nav.Link>
-                    <Nav.Link href="https://medium.com/@albertogarciagomez18">
+                    <Nav.Link href="https://medium.com/@albertogarciagomez18" target="_blank">
                     YouTube
                     </Nav.Link>
                 </Nav>
