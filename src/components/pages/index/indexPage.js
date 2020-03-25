@@ -20,7 +20,10 @@ const IndexPage = () => {
                                         <a href="#contact" className="buttonHomeContact">
                                                 Contact >
                                         </a>
-
+                                        
+                                        <a href="#contact" className="toprojects">
+                                         Proyectos<br/>  🔽     
+                                        </a>
                                 </div>
                         </div>
                         <div className="homeContainerleft col-md-6 d-none d-md-flex">
