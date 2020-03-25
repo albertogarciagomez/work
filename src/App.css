@@ -231,7 +231,7 @@ opacity: 0.8;
 }
 
 
-.jumboUxUi h2{
+.jumboUxUi > h2{
   font-size: 22px;
   opacity: .5;
   padding-top: 40px;
@@ -240,7 +240,6 @@ opacity: 0.8;
 }
 .jumboUxUi .textoCard h2{
   font-size: 22px;
-  opacity: ;
   padding-top: 40px;
   margin-bottom: 2px;
   font-weight: bold;
