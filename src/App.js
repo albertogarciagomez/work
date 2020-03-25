@@ -10,11 +10,11 @@ import NavBar from './components/ui/navbar/Navbar'
 // Page Components
 import IndexPage from './components/pages/index/indexPage'
 //import Foodsindex from './components/pages/foods-index/FoodsIndex'
-import PhotoVideo from './components/pages/foods-index/photovideo'
+//import PhotoVideo from './components/pages/foods-index/photovideo'
 //import Contact from './components/pages/foods-index/contact'
 import Aboutme from './components/pages/foods-index/aboutme'
 import Uxui from './components/pages/foods-index/uxui'
-// import Copy from './components/pages/foods-index/copy'
+ import Copy from './components/pages/foods-index/copy'
 
 
 // Rrd Components
@@ -28,7 +28,7 @@ const App = () => {
     <IndexPage/>
     <Aboutme/>
     <Uxui/>
-    <PhotoVideo/>
+    <Copy/>
     {/* <Switch>
       <Route path="/work/uxui" exact component={IndexPage}/>
       <Route path="/work/web" component={Foodsindex}/>
