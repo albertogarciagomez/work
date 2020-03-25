@@ -19,7 +19,7 @@ const IndexPage = () => {
 
                                         <a href="#contact" className="buttonHomeContact">
                                                 Contact >
-                                </a>
+                                        </a>
 
                                 </div>
                         </div>
