@@ -46,7 +46,6 @@ a {
 
 .tab-content {
   padding: 20px;
-  border: 1px solid #dee2e6;
   border-top: 0;
   margin-bottom: 40px;
 }
@@ -249,10 +248,8 @@ opacity: 0.8;
   color: #06c!important;
 }
 .proyecto{
-  border-bottom: 1px solid #f7f7f7 ;
   height: 90vh;
   padding-top: 30px;
-  margin-top: 30px;
 }
 .centro {
   display: flex;
